@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Meme Sharing</string>
+    <string name="next">NEXT</string>
+    <string name="share">SHARE</string>
+    <string name="image_pulled_from_the_web">Image pulled from the WEB</string>
+</resources>

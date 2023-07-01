@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Birthday wisher</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="create_the_card">Create the Card</string>
+    <string name="ansh">For Example: Chiboochi</string>
+    <string name="happy_birthday">Happy Birthday</string>
+</resources>
